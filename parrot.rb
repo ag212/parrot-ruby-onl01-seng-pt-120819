@@ -1,1 +1,1 @@
-def
+def parrot(arg="Squawk!")
